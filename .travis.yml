@@ -11,4 +11,4 @@ addons:
 script:
   - pytest -v --cov assignments/Session1
   #- sonar-scanner
-  #- coveralls
+  - coveralls
