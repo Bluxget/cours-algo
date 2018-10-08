@@ -62,5 +62,5 @@ def maximum_value(tab):
 
 notes = [12, 0, 20, -5]
 
-print(average_above_zero(notes))
-print(maximum_value(notes))
+#print(average_above_zero(notes))
+#print(maximum_value(notes))
